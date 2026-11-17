@@ -1,16 +1,16 @@
 {
-  "version": "2.5.0",
+  "version": "2.5.1",
   "mandatory": false,
   "fileName": "MDBocLink_Pro.exe",
-  "downloadUrl": "https://github.com/Namhi86/md-boc-link-pro-releases/releases/download/v2.5.0/MDBocLink_Pro.exe",
-  "sha256": "26763194e7468cddfe45370ed3960546d3d937f9c3afb93381719b870ba4efd9",
-  "sha512": "XwL1Tpd35SI9xdvlO8MoLwXC6BD+1kXFbNWA6pIWgtWaQ8+phdaYG4rrnbuI3mDqn33/++d+r8j5LoiLaazjkQ==",
-  "size": 17112580,
-  "releaseDate": "2026-11-17T08:22:37Z",
+  "downloadUrl": "https://github.com/Namhi86/md-boc-link-pro-releases/releases/download/v2.5.1/MDBocLink_Pro.exe",
+  "sha256": "6ddd389cf1db77a203c90e01040110b58710e3bf8d41ebfd9b915a2de5c9b23b",
+  "sha512": "hi2xGKpyr9gG24GylGeHUTdN3hIAl9wJGfmRPLDFc1yl2+pMqEXPt/i3o85b0lXRgm+DycBJfAnVg0/NHrs2PQ==",
+  "size": 17111203,
+  "releaseDate": "2026-11-17T11:51:24Z",
   "channel": "stable",
   "changelog": [
-    "Bổ sung nút Cập nhật phiên bản trực tiếp trên phần mềm (Cloud Live UI + GitHub OTA Auto-Updater)",
-    "Tích hợp tên miền phimmoi.tokyo & Wildcard vô hạn đầu chữ kèm lọc trùng đa tầng",
-    "Thiết lập hạn mức mặc định 10 link/khách tùy chỉnh từ xa trên Super Admin"
+    "Tự động vượt trình gỡ lỗi Facebook Debugger ngay khi tạo/sửa link (sửa triệt để lỗi 1611016 vượt 2048 ký tự)",
+    "Chuẩn hóa Custom Scheme al:ios:url & al:android:url giúp khách bấm link trên Facebook nhảy thẳng 1 chạm sang TikTok (không cần click lần 2)",
+    "Bổ sung nút ⚡ Nạp 1-Click FB trực tiếp ngay trong bảng quản lý link"
   ]
 }
