@@ -1,16 +1,15 @@
 {
-  "version": "2.5.1",
+  "version": "2.5.2",
   "mandatory": false,
   "fileName": "MDBocLink_Pro.exe",
-  "downloadUrl": "https://github.com/Namhi86/md-boc-link-pro-releases/releases/download/v2.5.1/MDBocLink_Pro.exe",
-  "sha256": "6ddd389cf1db77a203c90e01040110b58710e3bf8d41ebfd9b915a2de5c9b23b",
-  "sha512": "hi2xGKpyr9gG24GylGeHUTdN3hIAl9wJGfmRPLDFc1yl2+pMqEXPt/i3o85b0lXRgm+DycBJfAnVg0/NHrs2PQ==",
-  "size": 17111203,
-  "releaseDate": "2026-11-17T11:51:24Z",
+  "downloadUrl": "https://github.com/Namhi86/md-boc-link-pro-releases/releases/download/v2.5.2/MDBocLink_Pro.exe",
+  "sha256": "5ce30427eb85c94397f51d4f8a3a51b8dc82d880861c77fe93eaf3abe4b34a23",
+  "sha512": "axeyX8nW1tclnJW5OqqOaR6T4P9ZF3oQ2All1lxRsv7mndenCQOG+0i+ylk1dZtHRl7SzXLThqNhMkQJqS5zMg==",
+  "size": 17113269,
+  "releaseDate": "2026-11-18T03:37:43Z",
   "channel": "stable",
   "changelog": [
-    "Tự động vượt trình gỡ lỗi Facebook Debugger ngay khi tạo/sửa link (sửa triệt để lỗi 1611016 vượt 2048 ký tự)",
-    "Chuẩn hóa Custom Scheme al:ios:url & al:android:url giúp khách bấm link trên Facebook nhảy thẳng 1 chạm sang TikTok (không cần click lần 2)",
-    "Bổ sung nút ⚡ Nạp 1-Click FB trực tiếp ngay trong bảng quản lý link"
+    "Đồng bộ chuẩn URL chính tắc UTF-8 không chuyển hướng cho link tiếng Việt có dấu",
+    "Nén sạch tham số Live Stream (<1600 ký tự) giúp Facebook giữ nguyên 100% thẻ al:ios & al:android nhảy 1 chạm thẳng sang TikTok"
   ]
 }
