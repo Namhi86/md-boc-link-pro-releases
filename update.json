@@ -1,16 +1,15 @@
 {
-  "version": "2.5.3",
+  "version": "2.5.4",
   "mandatory": false,
   "fileName": "MDBocLink_Pro.exe",
-  "downloadUrl": "https://github.com/Namhi86/md-boc-link-pro-releases/releases/download/v2.5.3/MDBocLink_Pro.exe",
-  "sha256": "85a2c4ee3dd2cd162e0d22df1e733d56724b633cd2b79c038432c90e9c5e8522",
-  "sha512": "inLrWOucDONq+ZTKkFwIqOAUpk4AW7geWYIqYGbMOFVK4mRwiRf0BNhIP6iFsEpK8NenqC7+QVXWX2/qDjI+zg==",
-  "size": 17114088,
-  "releaseDate": "2026-11-18T05:07:31Z",
+  "downloadUrl": "https://github.com/Namhi86/md-boc-link-pro-releases/releases/download/v2.5.4/MDBocLink_Pro.exe",
+  "sha256": "a8914186d227be0572343c23fc7a1d712a115d9b95eafd04c345d6c0632ec5b1",
+  "sha512": "REYX9PIV+ZWfz9qeOrdcSE0HxT+eS0ZNUcNta+GjZvM7VXSbO+J3x2D5eD4NQpmd3jenREOkvN9fhdJy8NWnNg==",
+  "size": 17113805,
+  "releaseDate": "2026-11-18T05:23:08Z",
   "channel": "stable",
   "changelog": [
-    "Chuẩn hóa giao thức al:ios:url tiktok:// + al:web:should_fallback=false giúp khách bấm trên iPhone/Android nhảy thẳng 1 chạm vào App TikTok không hiện hộp thoại hỏi xác nhận",
-    "Bổ sung fb:app_id sạch 100% cảnh báo trên Facebook Debugger",
-    "Tự động chuẩn hóa đuôi link không dấu chống lệch URL chính tắc trên Facebook & Zalo"
+    "Chuẩn hóa al:ios:url khớp đúng snssdk1180:// của App TikTok Việt Nam (ID 1235601864) giúp bấm trên Facebook iPhone mở thẳng trang sản phẩm TikTok thay vì bật bảng App Store",
+    "Tự động vượt Facebook Debugger & đuôi không dấu chuẩn 1-Click"
   ]
 }
