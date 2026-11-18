@@ -1,15 +1,16 @@
 {
-  "version": "2.5.2",
+  "version": "2.5.3",
   "mandatory": false,
   "fileName": "MDBocLink_Pro.exe",
-  "downloadUrl": "https://github.com/Namhi86/md-boc-link-pro-releases/releases/download/v2.5.2/MDBocLink_Pro.exe",
-  "sha256": "5ce30427eb85c94397f51d4f8a3a51b8dc82d880861c77fe93eaf3abe4b34a23",
-  "sha512": "axeyX8nW1tclnJW5OqqOaR6T4P9ZF3oQ2All1lxRsv7mndenCQOG+0i+ylk1dZtHRl7SzXLThqNhMkQJqS5zMg==",
-  "size": 17113269,
-  "releaseDate": "2026-11-18T03:37:43Z",
+  "downloadUrl": "https://github.com/Namhi86/md-boc-link-pro-releases/releases/download/v2.5.3/MDBocLink_Pro.exe",
+  "sha256": "85a2c4ee3dd2cd162e0d22df1e733d56724b633cd2b79c038432c90e9c5e8522",
+  "sha512": "inLrWOucDONq+ZTKkFwIqOAUpk4AW7geWYIqYGbMOFVK4mRwiRf0BNhIP6iFsEpK8NenqC7+QVXWX2/qDjI+zg==",
+  "size": 17114088,
+  "releaseDate": "2026-11-18T05:07:31Z",
   "channel": "stable",
   "changelog": [
-    "Đồng bộ chuẩn URL chính tắc UTF-8 không chuyển hướng cho link tiếng Việt có dấu",
-    "Nén sạch tham số Live Stream (<1600 ký tự) giúp Facebook giữ nguyên 100% thẻ al:ios & al:android nhảy 1 chạm thẳng sang TikTok"
+    "Chuẩn hóa giao thức al:ios:url tiktok:// + al:web:should_fallback=false giúp khách bấm trên iPhone/Android nhảy thẳng 1 chạm vào App TikTok không hiện hộp thoại hỏi xác nhận",
+    "Bổ sung fb:app_id sạch 100% cảnh báo trên Facebook Debugger",
+    "Tự động chuẩn hóa đuôi link không dấu chống lệch URL chính tắc trên Facebook & Zalo"
   ]
 }
