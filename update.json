@@ -1,15 +1,15 @@
 {
-  "version": "2.5.4",
+  "version": "2.5.5",
   "mandatory": false,
   "fileName": "MDBocLink_Pro.exe",
-  "downloadUrl": "https://github.com/Namhi86/md-boc-link-pro-releases/releases/download/v2.5.4/MDBocLink_Pro.exe",
-  "sha256": "a8914186d227be0572343c23fc7a1d712a115d9b95eafd04c345d6c0632ec5b1",
-  "sha512": "REYX9PIV+ZWfz9qeOrdcSE0HxT+eS0ZNUcNta+GjZvM7VXSbO+J3x2D5eD4NQpmd3jenREOkvN9fhdJy8NWnNg==",
-  "size": 17113805,
-  "releaseDate": "2026-11-18T05:23:08Z",
+  "downloadUrl": "https://github.com/Namhi86/md-boc-link-pro-releases/releases/download/v2.5.5/MDBocLink_Pro.exe",
+  "sha256": "8953fa5f4a1f3c89cadcde02880d8ba93b2b188b16007b38b7dc0a60a48c477f",
+  "sha512": "omEfCdP2BcTKW2J7pssK56ouJcqBLXaW7dJ95yWNdFiB8IwaX6XbeIuZ7MrPN6qjixcqK9rOZNs9WwlnoEwkGQ==",
+  "size": 17113276,
+  "releaseDate": "2026-11-18T05:47:20Z",
   "channel": "stable",
   "changelog": [
-    "Chuẩn hóa al:ios:url khớp đúng snssdk1180:// của App TikTok Việt Nam (ID 1235601864) giúp bấm trên Facebook iPhone mở thẳng trang sản phẩm TikTok thay vì bật bảng App Store",
-    "Tự động vượt Facebook Debugger & đuôi không dấu chuẩn 1-Click"
+    "Đồng bộ nguyên bản cơ chế 1-Click Universal Link (snssdk1180.onelink.me/BAuo) mở thẳng trang sản phẩm TikTok Shop trên cả iPhone & Android",
+    "Tự động nạp ngầm bộ đệm Facebook App Links (xử lý chuẩn mã OneLink 1611016) ngay khi tạo/sửa link không cần bấm Thu thập lại trên Facebook Debugger"
   ]
 }
